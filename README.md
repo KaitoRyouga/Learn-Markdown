@@ -32,10 +32,9 @@
 
 - Sử dụng cặp nháy ngược
 
-``` `inline code`
-```
+``inline code``
 
-```
+---
 
 ### highlight block code
 
@@ -64,14 +63,10 @@
 
 * Viết ký tự `*` ở đầu dòng để bắt đầu cho list
 
-```*List1
-```
+`*List1`
+`*List2`
 
-```*List2
-```
-
-```*List3
-```
+`*List3`
 
 > * List1
 
@@ -85,7 +80,7 @@
 
 * Sử dụng `***` để tạo Horizonal rules
 
-***
+`***`
 Horizonal rules
 
 ---
@@ -94,8 +89,7 @@ Horizonal rules
 
 * Sử dụng `>` để tạo Blockquotes
 
-```> Blockquotes
-```
+`> Blockquotes`
 
 > Blockquotes
 
@@ -105,8 +99,7 @@ Horizonal rules
 
 * Sử dụng ký tự `\` để phân biệt ký tự thường với ký tự markdown
 
-```\*text*
-```
+`\*text*`
 
 \*text*
 
