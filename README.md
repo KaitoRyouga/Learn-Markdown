@@ -34,7 +34,8 @@
 
 ``` `inline code`
 ```
-----
+
+```
 
 ### highlight block code
 
@@ -80,7 +81,7 @@
 
 > * List3
 
-```
+---
 
 ### Horizonal rules
 
