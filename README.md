@@ -32,17 +32,17 @@
 
  - kẹp một từ ở đầu và cuối bằng 1 ký tự `*` để in nghiêng, 2 ký tự `**` để bôi đậm, và 3 ký tự `***` để vừa in nghiêng vừa bôi đậm.in
 
-> ```*in nghiêng*```
+`*in nghiêng*`
 
-> ```** Bôi đậm**```
+`**Bôi đậm  **`
 
-> ```***vừa in nghiêng vừa bôi đậm***```
+`***vừa in nghiêng vừa bôi đậm***`
 
 ---
 
 > *in nghiêng*
 
-> ** Bôi đậm**
+> **Bôi đậm**
 
 > ***vừa in nghiêng vừa bôi đậm***
 
@@ -54,9 +54,8 @@
 
 ``` `inline code` ```
 
----
 
-```inline code```
+> ```inline code```
 
 ---
 
@@ -65,6 +64,8 @@
 - Sử dụng 3 dấu nháy ngược
 
 ` ```echo "anything";``` `
+
+> ```echo "anything";```
 
 ----
 
@@ -126,7 +127,7 @@ Horizonal rules
 
 `\*text*`
 
-\*text*
+> \*text*
 
 ---
 
