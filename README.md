@@ -1,4 +1,4 @@
-#Markdown
+# Markdown
 
 ## 1. Cách thức hoạt động của gitub
 ----
@@ -8,7 +8,7 @@
 
 ## 2. Các cú pháp thường gặp
 ----
-###Tiêu Đề
+### Tiêu Đề
 
  - Tương tự như thẻ h1 tới h6 của html
 
@@ -16,7 +16,7 @@
 
 ----
 
-###Nhấn mạnh
+### Nhấn mạnh
 
  - kẹp một từ ở đầu và cuối bằng 1 ký tự `*` để in nghiêng, 2 ký tự `**` để bôi đậm, và 3 ký tự `***` để vừa in nghiêng vừa bôi đậm.in
 
@@ -28,7 +28,7 @@
 
 ----
 
-###Inline code
+### Inline code
 
 - Sử dụng cặp nháy ngược
 
@@ -36,7 +36,7 @@
 ```
 ----
 
-###highlight block code
+### highlight block code
 
 - Sử dụng 3 dấu nháy ngược
 
@@ -45,7 +45,7 @@
 
 ----
 
-###Link, Image
+### Link, Image
 
 - Chèn link và chèn ảnh
  - Chèn link
@@ -61,7 +61,7 @@
 
 ----
 
-###List
+### List
 
 * Viết ký tự `*` ở đầu dòng để bắt đầu cho list
 
@@ -82,7 +82,7 @@
 
 ```
 
-###Horizonal rules
+### Horizonal rules
 
 * Sử dụng `***` để tạo Horizonal rules
 
@@ -102,7 +102,7 @@ Horizonal rules
 
 ---
 
-###Escape markdown
+### Escape markdown
 
 * Sử dụng ký tự `\` để phân biệt ký tự thường với ký tự markdown
 
@@ -113,7 +113,7 @@ Horizonal rules
 
 ---
 
-###Tạo bảng
+### Tạo bảng
 
 * Sử dụng dấu `|` để tạo bảng.
 
