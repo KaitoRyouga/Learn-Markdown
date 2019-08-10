@@ -32,7 +32,7 @@
 
 - Sử dụng cặp nháy ngược
 
-``inline code``
+``` `inline code` ```
 
 ---
 
@@ -40,8 +40,7 @@
 
 - Sử dụng 3 dấu nháy ngược
 
-```echo "anything";
-```
+`echo "anything";`
 
 ----
 
@@ -64,6 +63,7 @@
 * Viết ký tự `*` ở đầu dòng để bắt đầu cho list
 
 `*List1`
+
 `*List2`
 
 `*List3`
@@ -81,6 +81,7 @@
 * Sử dụng `***` để tạo Horizonal rules
 
 `***`
+
 Horizonal rules
 
 ---
