@@ -51,12 +51,10 @@
 - Chèn link và chèn ảnh
  - Chèn link
 
- ```[title](http://~)
- ```
+ `[title](http://~)`
  - Chèn ảnh
 
- ```![alt](http://~)
- ```
+ `![alt](http://~)`
 
 ![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 
@@ -69,11 +67,11 @@
 ```*List1
 ```
 
-````*List2
-````
+```*List2
+```
 
-````*List3
-````
+```*List3
+```
 
 > * List1
 
