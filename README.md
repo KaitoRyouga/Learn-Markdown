@@ -12,17 +12,17 @@
 
  - Tương tự như thẻ h1 tới h6 của html
  
- > ```#This is h1```
+ > ```#This is h1.```
  
- > ```##This is h2```
+ > ```##This is h2.```
  
- > ```###This is h3```
+ > ```###This is h3.```
  
- > ```####This is h4```
+ > ```####This is h4.```
  
- > ```#####This is h5```
+ > ```#####This is h5.```
  
- > ```######This is h6```
+ > ```######This is h6.```
 
 ![Heading](https://i.stack.imgur.com/5f2uf.jpg)
 
