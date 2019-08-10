@@ -12,17 +12,17 @@
 
  - Tương tự như thẻ h1 tới h6 của html
  
- > ```#this is h1```
+ > ```#This is h1```
  
- > ```##this is h2```
+ > ```##This is h2```
  
- > ```###this is h3```
+ > ```###This is h3```
  
- > ```####this is h4```
+ > ```####This is h4```
  
- > ```#####this is h5```
+ > ```#####This is h5```
  
- > ```######this is h6```
+ > ```######This is h6```
 
 ![Heading](https://i.stack.imgur.com/5f2uf.jpg)
 
@@ -107,11 +107,7 @@
 
 `***`
 
-Horizonal rules
-
 > ***
-
-Horizonal rules
 
 ---
 
@@ -145,6 +141,6 @@ First Header  | Second Header
 Content Cell  | Content Cell
 ```
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
+> First Header  | Second Header
+> ------------- | -------------
+> Content Cell  | Content Cell
