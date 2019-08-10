@@ -11,6 +11,18 @@
 ### Tiêu Đề
 
  - Tương tự như thẻ h1 tới h6 của html
+ 
+ > ```#h1```
+ 
+ > ```##h2```
+ 
+ > ```###h3```
+ 
+ > ```####h4```
+ 
+ > ```#####h5```
+ 
+ > ```######h6```
 
 ![Heading](https://i.stack.imgur.com/5f2uf.jpg)
 
@@ -26,6 +38,14 @@
 
 > ```***vừa in nghiêng vừa bôi đậm***```
 
+---
+
+> *in nghiêng*
+
+> ** Bôi đậm**
+
+> ***vừa in nghiêng vừa bôi đậm***
+
 ----
 
 ### Inline code
@@ -36,11 +56,15 @@
 
 ---
 
+```inline code```
+
+---
+
 ### highlight block code
 
 - Sử dụng 3 dấu nháy ngược
 
-`echo "anything";`
+` ```echo "anything";``` `
 
 ----
 
